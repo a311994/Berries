@@ -8,7 +8,7 @@ git clone https://github.com/a311994/Berries.git
 ```
 2. Install the necessary dependencies
 ```
-pip3 install -qr yolov5/requirements.txt 
+pip3 install -qr Berries/requirements.txt 
 ```
 3. Change directory into the cloned folder
 ```
